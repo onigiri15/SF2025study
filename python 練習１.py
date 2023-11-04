@@ -1,3 +1,4 @@
+# 物理
 def check():
 	answer=input()
 	if answer=="c":
