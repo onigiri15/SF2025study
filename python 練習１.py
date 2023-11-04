@@ -1,4 +1,3 @@
-# 物理シミュレーター
 def check():
 	answer=input()
 	if answer=="c":
